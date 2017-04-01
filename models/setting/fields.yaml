@@ -1,0 +1,22 @@
+# ===================================
+#  Field Definitions
+# ===================================
+
+tabs:
+    fields:
+
+        default_thumb:
+            label: 默认缩略图
+            type: fileupload
+            commentAbove: 前端无图时显示
+            mode: image
+            imageHeight: 170
+            tab: 图片
+
+        default_avatar:
+            label: 默认头像
+            type: fileupload
+            mode: image
+            imageHeight: 170
+            tab: 图片
+

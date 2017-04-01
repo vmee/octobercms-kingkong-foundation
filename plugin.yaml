@@ -1,0 +1,6 @@
+plugin:
+    name: 'kingkong.foundation::lang.plugin.name'
+    description: 'kingkong.foundation::lang.plugin.description'
+    author: kingkong
+    icon: oc-icon-gift
+    homepage: ''

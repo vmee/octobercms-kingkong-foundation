@@ -1,0 +1,8 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table kingkong_foundation_favorites'
+    - builder_table_create_kingkong_foundation_favorites.php
+1.0.3:
+    - 'Created table kingkong_foundation_likes'
+    - builder_table_create_kingkong_foundation_likes.php
